@@ -1,9 +1,11 @@
-const { sequelize, Sequelize } = require(".");
+const { DataTypes } = require("sequelize");
 
 module.exports = (sequelize, Sequelize) => {
-  const Tutorial = sequelize.define("tutorial", {
+  const Tutorial = sequelize.define("tutorials", {
     title: {
-      type: Sequelize.STRING,
+      type: DataTypes.STRING,
+      allowNull: false,
+      unique: true,
     },
     description: {
       type: Sequelize.STRING,

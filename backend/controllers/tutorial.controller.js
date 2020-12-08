@@ -86,6 +86,7 @@ exports.update = (req, res) => {
         if (num == 1) {
           res.send({
             message: "Tutorial was updated successfully",
+            data: content,
           });
           return;
         } else {

@@ -22,6 +22,8 @@
           name="description"
         />
       </div>
+
+      <button @click="saveTutorial" class="btn btn-success">Submit</button>
     </div>
 
     <div v-else>

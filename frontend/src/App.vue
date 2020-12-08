@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav class="navbar navbar-expand navbar-dark bg-dark">
-      <a href="#" class="navbar-brand">bezKoder</a>
+      <a href="#" class="navbar-brand">YX-XiaoBai</a>
       <div class="navbar-nav mr-auto">
         <li class="nav-item">
           <a href="/tutorials" class="nav-link">Tutorials</a>
@@ -19,8 +19,8 @@
 </template>
 
 <script lang="ts">
-  import { Component, Vue } from "vue-property-decorator";
+import { Component, Vue } from "vue-property-decorator";
 
-  @Component
-  export default class App extends Vue { }
+@Component
+export default class App extends Vue {}
 </script>
