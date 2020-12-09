@@ -11,3 +11,15 @@
 - 运行项目
 
 `npm run dev`
+
+## Detail
+
+`jwt` 实现
+
+```text
+Express
+bcryptjs
+jsonwebtoken
+Sequelize
+MySQL
+```
