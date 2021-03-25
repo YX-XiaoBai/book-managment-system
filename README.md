@@ -3,7 +3,7 @@
 基于以下技术栈
 
 - 前端(`frontend`)
-  - [vue](https://github.com/vuejs/vue) + [js](https://github.com/search?q=js)
+  - [vue.js](https://github.com/vuejs/vue) + [js](https://github.com/search?q=js)
 - 后端(`backend`)
   - [express](https://github.com/search?q=express) + [ts](https://github.com/search?q=ts)
 - 数据库(`database`)
