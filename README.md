@@ -1,6 +1,6 @@
-# 书籍管理系统
+# Book-Managment System
 
-基于以下技术栈
+Skill-Stack
 
 - 前端(`frontend`)
   - [vue.js](https://github.com/vuejs/vue) + [js](https://github.com/search?q=js)
